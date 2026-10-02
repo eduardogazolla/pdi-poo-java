@@ -23,6 +23,7 @@ src/br/com/eduardo/usuarios/
 ├── Main.java
 └── modelo/
     ├── Usuario.java
+    ├── UsuarioCliente.java
     └── UsuarioAdmin.java
 ```
 
